@@ -14,8 +14,7 @@
 
 <br/>
 
-<!-- Reemplazá URL_DE_LA_DEMO por el link de la demo publicada (aparece dos veces en este archivo). -->
-<a href="URL_DE_LA_DEMO"><img src="https://img.shields.io/badge/%E2%96%B6%20Probar%20la%20demo-gratis%2C%20sin%20registrarte-2a5a8c?style=for-the-badge" alt="Probar la demo" height="42"/></a>
+<a href="https://matixv23.github.io/ExpensesAppDemo"><img src="https://img.shields.io/badge/%E2%96%B6%20Probar%20la%20demo-gratis%2C%20sin%20registrarte-2a5a8c?style=for-the-badge" alt="Probar la demo" height="42"/></a>
 
 </div>
 
@@ -98,7 +97,7 @@ Entrás con un clic, sin crear cuenta, y nada de lo que hagas sale de tu navegad
 
 **Probala ahora: en dos minutos vas a entender por qué no querés volver a la planilla.**
 
-<a href="URL_DE_LA_DEMO"><img src="https://img.shields.io/badge/%E2%96%B6%20Probar%20la%20demo-ahora-2a5a8c?style=for-the-badge" alt="Probar la demo ahora" height="42"/></a>
+<a href="https://matixv23.github.io/ExpensesAppDemo"><img src="https://img.shields.io/badge/%E2%96%B6%20Probar%20la%20demo-ahora-2a5a8c?style=for-the-badge" alt="Probar la demo ahora" height="42"/></a>
 
 <br/>
 
