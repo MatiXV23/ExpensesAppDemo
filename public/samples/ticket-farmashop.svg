@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 382" width="360" height="382" font-family="'Courier New',ui-monospace,monospace">
+<rect width="360" height="382" fill="#eef0f3"/>
+<g><path d="M0 0 H360 V382 L0 382 L12 376 L24 382 L36 376 L48 382 L60 376 L72 382 L84 376 L96 382 L108 376 L120 382 L132 376 L144 382 L156 376 L168 382 L180 376 L192 382 L204 376 L216 382 L228 376 L240 382 L252 376 L264 382 L276 376 L288 382 L300 376 L312 382 L324 376 L336 382 L348 376 L360 382 L0 382 Z" fill="#fffdf8" stroke="#e5e1d8"/>
+<text x="180.0" y="46" font-size="20" text-anchor="middle" font-weight="700" fill="#2b2f36">FARMASHOP</text>
+<text x="180.0" y="68" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">Farmacia · 21 de Setiembre</text>
+<text x="180.0" y="84" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">Montevideo · Uruguay</text>
+<text x="24" y="110" font-size="11" text-anchor="start" font-weight="400" fill="#4b5563">e-Ticket de ejemplo   16/09/2026 18:55</text>
+<line x1="24" x2="336" y1="122" y2="122" stroke="#9ca3af" stroke-dasharray="4 3"/>
+<text x="24" y="144" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Ibuprofeno 400 mg x20</text>
+<text x="336" y="144" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">189,00</text>
+<text x="24" y="163" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Protector solar FPS 50</text>
+<text x="336" y="163" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">890,00</text>
+<text x="24" y="182" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Vitamina C x30</text>
+<text x="336" y="182" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">351,00</text>
+<text x="24" y="201" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Curitas x20</text>
+<text x="336" y="201" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">200,00</text>
+<line x1="24" x2="336" y1="224" y2="224" stroke="#9ca3af" stroke-dasharray="4 3"/>
+<text x="24" y="248" font-size="11" text-anchor="start" font-weight="400" fill="#6b7280">IVA incluido</text>
+<text x="336" y="248" font-size="11" text-anchor="end" font-weight="400" fill="#6b7280">293,93</text>
+<text x="24" y="274" font-size="17" text-anchor="start" font-weight="700" fill="#2b2f36">TOTAL $</text>
+<text x="336" y="274" font-size="17" text-anchor="end" font-weight="700" fill="#2b2f36">1.630,00</text>
+<text x="24" y="300" font-size="11" text-anchor="start" font-weight="400" fill="#4b5563">Tarjeta de débito ****7730</text>
+<text x="180.0" y="330" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">¡Gracias por su compra!</text>
+<text x="180.0" y="348" font-size="9" text-anchor="middle" font-weight="600" fill="#9ca3af">DOCUMENTO DE EJEMPLO · SIN VALOR FISCAL</text>
+<text x="180.0" y="191.0" font-size="54" text-anchor="middle" font-weight="700" fill="#2a5a8c" opacity=".05" transform="rotate(-28 180.0 191.0)">EJEMPLO</text></g>
+</svg>

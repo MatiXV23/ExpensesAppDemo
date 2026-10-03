@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 363" width="360" height="363" font-family="'Courier New',ui-monospace,monospace"><filter id="b"><feGaussianBlur stdDeviation="6 2"/></filter>
+<rect width="360" height="363" fill="#d9d4ca"/>
+<g filter="url(#b)" transform="rotate(-4 180 300)"><path d="M0 0 H360 V363 L0 363 L12 357 L24 363 L36 357 L48 363 L60 357 L72 363 L84 357 L96 363 L108 357 L120 363 L132 357 L144 363 L156 357 L168 363 L180 357 L192 363 L204 357 L216 363 L228 357 L240 363 L252 357 L264 363 L276 357 L288 363 L300 357 L312 363 L324 357 L336 363 L348 357 L360 363 L0 363 Z" fill="#fffdf8" stroke="#e5e1d8"/>
+<text x="180.0" y="46" font-size="20" text-anchor="middle" font-weight="700" fill="#2b2f36">PIZZERÍA TROUVILLE</text>
+<text x="180.0" y="68" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">Pizzas y empanadas</text>
+<text x="180.0" y="84" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">Montevideo · Uruguay</text>
+<text x="24" y="110" font-size="11" text-anchor="start" font-weight="400" fill="#4b5563">e-Ticket de ejemplo   14/10/2026 21:40</text>
+<line x1="24" x2="336" y1="122" y2="122" stroke="#9ca3af" stroke-dasharray="4 3"/>
+<text x="24" y="144" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Pizza muzzarella</text>
+<text x="336" y="144" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">780,00</text>
+<text x="24" y="163" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">2 x Fainá</text>
+<text x="336" y="163" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">260,00</text>
+<text x="24" y="182" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">4 x Empanadas</text>
+<text x="336" y="182" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">600,00</text>
+<line x1="24" x2="336" y1="205" y2="205" stroke="#9ca3af" stroke-dasharray="4 3"/>
+<text x="24" y="229" font-size="11" text-anchor="start" font-weight="400" fill="#6b7280">IVA incluido</text>
+<text x="336" y="229" font-size="11" text-anchor="end" font-weight="400" fill="#6b7280">295,74</text>
+<text x="24" y="255" font-size="17" text-anchor="start" font-weight="700" fill="#2b2f36">TOTAL $</text>
+<text x="336" y="255" font-size="17" text-anchor="end" font-weight="700" fill="#2b2f36">1.640,00</text>
+<text x="24" y="281" font-size="11" text-anchor="start" font-weight="400" fill="#4b5563">Billetera virtual</text>
+<text x="180.0" y="311" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">¡Gracias por su compra!</text>
+<text x="180.0" y="329" font-size="9" text-anchor="middle" font-weight="600" fill="#9ca3af">DOCUMENTO DE EJEMPLO · SIN VALOR FISCAL</text>
+<text x="180.0" y="181.5" font-size="54" text-anchor="middle" font-weight="700" fill="#2a5a8c" opacity=".05" transform="rotate(-28 180.0 181.5)">EJEMPLO</text></g>
+</svg>

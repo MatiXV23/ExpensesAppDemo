@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 534" width="360" height="534" font-family="'Courier New',ui-monospace,monospace">
+<rect width="360" height="534" fill="#eef0f3"/>
+<g><path d="M0 0 H360 V534 L0 534 L12 528 L24 534 L36 528 L48 534 L60 528 L72 534 L84 528 L96 534 L108 528 L120 534 L132 528 L144 534 L156 528 L168 534 L180 528 L192 534 L204 528 L216 534 L228 528 L240 534 L252 528 L264 534 L276 528 L288 534 L300 528 L312 534 L324 528 L336 534 L348 528 L360 534 L0 534 Z" fill="#fffdf8" stroke="#e5e1d8"/>
+<text x="180.0" y="46" font-size="20" text-anchor="middle" font-weight="700" fill="#2b2f36">TIENDA INGLESA</text>
+<text x="180.0" y="68" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">Supermercado · Sucursal Pocitos</text>
+<text x="180.0" y="84" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">Montevideo · Uruguay</text>
+<text x="24" y="110" font-size="11" text-anchor="start" font-weight="400" fill="#4b5563">e-Ticket de ejemplo   17/10/2026 19:42</text>
+<line x1="24" x2="336" y1="122" y2="122" stroke="#9ca3af" stroke-dasharray="4 3"/>
+<text x="24" y="144" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Milanesas de pollo (kg)</text>
+<text x="336" y="144" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">689,00</text>
+<text x="24" y="163" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">2 x Arroz 1 kg</text>
+<text x="336" y="163" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">136,00</text>
+<text x="24" y="182" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">3 x Fideos</text>
+<text x="336" y="182" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">177,00</text>
+<text x="24" y="201" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Aceite de girasol 1 L</text>
+<text x="336" y="201" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">149,00</text>
+<text x="24" y="220" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">4 x Yogur bebible</text>
+<text x="336" y="220" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">196,00</text>
+<text x="24" y="239" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Manzanas (kg)</text>
+<text x="336" y="239" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">189,00</text>
+<text x="24" y="258" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Café molido 500 g</text>
+<text x="336" y="258" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">398,00</text>
+<text x="24" y="277" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">3 x Galletitas</text>
+<text x="336" y="277" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">186,00</text>
+<text x="24" y="296" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Jabón líquido ropa</text>
+<text x="336" y="296" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">549,00</text>
+<text x="24" y="315" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Dulce de leche</text>
+<text x="336" y="315" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">168,00</text>
+<text x="24" y="334" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">2 x Agua mineral 6 L</text>
+<text x="336" y="334" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">152,00</text>
+<text x="24" y="353" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Queso rallado</text>
+<text x="336" y="353" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">295,00</text>
+<line x1="24" x2="336" y1="376" y2="376" stroke="#9ca3af" stroke-dasharray="4 3"/>
+<text x="24" y="400" font-size="11" text-anchor="start" font-weight="400" fill="#6b7280">IVA incluido</text>
+<text x="336" y="400" font-size="11" text-anchor="end" font-weight="400" fill="#6b7280">592,20</text>
+<text x="24" y="426" font-size="17" text-anchor="start" font-weight="700" fill="#2b2f36">TOTAL $</text>
+<text x="336" y="426" font-size="17" text-anchor="end" font-weight="700" fill="#2b2f36">3.284,00</text>
+<text x="24" y="452" font-size="11" text-anchor="start" font-weight="400" fill="#4b5563">Tarjeta de débito ****4821</text>
+<text x="180.0" y="482" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">¡Gracias por su compra!</text>
+<text x="180.0" y="500" font-size="9" text-anchor="middle" font-weight="600" fill="#9ca3af">DOCUMENTO DE EJEMPLO · SIN VALOR FISCAL</text>
+<text x="180.0" y="267.0" font-size="54" text-anchor="middle" font-weight="700" fill="#2a5a8c" opacity=".05" transform="rotate(-28 180.0 267.0)">EJEMPLO</text></g>
+</svg>

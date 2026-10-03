@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 477" width="360" height="477" font-family="'Courier New',ui-monospace,monospace">
+<rect width="360" height="477" fill="#eef0f3"/>
+<g><path d="M0 0 H360 V477 L0 477 L12 471 L24 477 L36 471 L48 477 L60 471 L72 477 L84 471 L96 477 L108 471 L120 477 L132 471 L144 477 L156 471 L168 477 L180 471 L192 477 L204 471 L216 477 L228 471 L240 477 L252 471 L264 477 L276 471 L288 477 L300 471 L312 477 L324 471 L336 477 L348 471 L360 477 L0 477 Z" fill="#fffdf8" stroke="#e5e1d8"/>
+<text x="180.0" y="46" font-size="20" text-anchor="middle" font-weight="700" fill="#2b2f36">DISCO</text>
+<text x="180.0" y="68" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">Supermercado · Punta Carretas</text>
+<text x="180.0" y="84" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">Montevideo · Uruguay</text>
+<text x="24" y="110" font-size="11" text-anchor="start" font-weight="400" fill="#4b5563">e-Ticket de ejemplo   17/10/2026 11:08</text>
+<line x1="24" x2="336" y1="122" y2="122" stroke="#9ca3af" stroke-dasharray="4 3"/>
+<text x="24" y="144" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">4 x Leche entera 1 L</text>
+<text x="336" y="144" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">236,00</text>
+<text x="24" y="163" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Yerba 1 kg</text>
+<text x="336" y="163" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">389,00</text>
+<text x="24" y="182" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">2 x Pan flauta</text>
+<text x="336" y="182" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">98,00</text>
+<text x="24" y="201" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Queso colonia</text>
+<text x="336" y="201" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">412,50</text>
+<text x="24" y="220" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Bananas (kg)</text>
+<text x="336" y="220" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">129,00</text>
+<text x="24" y="239" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Detergente</text>
+<text x="336" y="239" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">185,00</text>
+<text x="24" y="258" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Pollo entero</text>
+<text x="336" y="258" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">498,00</text>
+<text x="24" y="277" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Vino tinto Tannat</text>
+<text x="336" y="277" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">590,00</text>
+<text x="24" y="296" font-size="12" text-anchor="start" font-weight="400" fill="#2b2f36">Papel higiénico x12</text>
+<text x="336" y="296" font-size="12" text-anchor="end" font-weight="400" fill="#2b2f36">410,00</text>
+<line x1="24" x2="336" y1="319" y2="319" stroke="#9ca3af" stroke-dasharray="4 3"/>
+<text x="24" y="343" font-size="11" text-anchor="start" font-weight="400" fill="#6b7280">IVA incluido</text>
+<text x="336" y="343" font-size="11" text-anchor="end" font-weight="400" fill="#6b7280">531,52</text>
+<text x="24" y="369" font-size="17" text-anchor="start" font-weight="700" fill="#2b2f36">TOTAL $</text>
+<text x="336" y="369" font-size="17" text-anchor="end" font-weight="700" fill="#2b2f36">2.947,50</text>
+<text x="24" y="395" font-size="11" text-anchor="start" font-weight="400" fill="#4b5563">Tarjeta de débito ****4821</text>
+<text x="180.0" y="425" font-size="11" text-anchor="middle" font-weight="400" fill="#6b7280">¡Gracias por su compra!</text>
+<text x="180.0" y="443" font-size="9" text-anchor="middle" font-weight="600" fill="#9ca3af">DOCUMENTO DE EJEMPLO · SIN VALOR FISCAL</text>
+<text x="180.0" y="238.5" font-size="54" text-anchor="middle" font-weight="700" fill="#2a5a8c" opacity=".05" transform="rotate(-28 180.0 238.5)">EJEMPLO</text></g>
+</svg>
